@@ -1,0 +1,62 @@
+.tieude {
+    
+    text-align: center;
+    
+}
+.ahi1{
+    background-color: pink;
+    height: 300px;
+    width: 400px;
+    line-height: 250px;
+    
+
+    
+}
+.ahi2{
+    background-color: pink;
+    height: 300px;
+    width: 400px;
+    line-height: 250px;
+    
+
+}
+.ahi3{
+
+    background-color: pink;
+    height: 300px;
+    width: 400px;
+    line-height: 250px;
+    
+
+}
+.ahihi{
+    margin-top: 36px;
+    display: flex;
+    flex-basis: 30%;
+    justify-content:space-evenly ;
+    text-align: center;
+    
+}
+.thongtin{
+    margin-top: 36px;
+    display: flex;
+    text-align: left;
+    flex-basis: 30%;
+    justify-content: space-evenly;
+
+}
+.s1{
+    background-color: white;
+    height: 10px;
+    width: 400px;
+}
+.s3{
+    background-color: white;
+    height: 10px;
+    width: 400px;
+}
+.s2{
+    background-color: white;
+    height: 10px;
+    width: 400px;
+}
